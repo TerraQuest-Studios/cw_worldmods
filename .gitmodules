@@ -1,0 +1,24 @@
+[submodule "areas"]
+	path = areas
+	url = https://github.com/minetest-mods/areas.git
+[submodule "irc"]
+	path = irc
+	url = https://github.com/minetest-mods/irc.git
+[submodule "irc_commands"]
+	path = irc_commands
+	url = https://github.com/minetest-mods/irc_commands.git
+[submodule "mapfix"]
+	path = mapfix
+	url = https://github.com/minetest-mods/mapfix.git
+[submodule "Minetest-WorldEditAdditions"]
+	path = Minetest-WorldEditAdditions
+	url = https://github.com/sbrl/Minetest-WorldEditAdditions.git
+[submodule "Minetest-WorldEdit"]
+	path = Minetest-WorldEdit
+	url = https://github.com/Uberi/Minetest-WorldEdit.git
+[submodule "monitoring"]
+	path = monitoring
+	url = https://github.com/minetest-monitoring/monitoring.git
+[submodule "xban2"]
+	path = xban2
+	url = https://github.com/minetest-mods/xban2.git
