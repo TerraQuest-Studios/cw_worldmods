@@ -22,3 +22,6 @@
 [submodule "xban2"]
 	path = xban2
 	url = https://github.com/minetest-mods/xban2.git
+[submodule "liquid_restriction"]
+	path = liquid_restriction
+	url = https://github.com/wsor4035/liquid_restriction.git
