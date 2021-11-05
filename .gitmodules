@@ -25,3 +25,6 @@
 [submodule "liquid_restriction"]
 	path = liquid_restriction
 	url = https://github.com/wsor4035/liquid_restriction.git
+[submodule "ptime"]
+	path = ptime
+	url = https://github.com/xenonca/ptime.git
