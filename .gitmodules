@@ -28,3 +28,18 @@
 [submodule "ptime"]
 	path = ptime
 	url = https://github.com/xenonca/ptime.git
+[submodule "minetest_tieless_tracks"]
+	path = minetest_tieless_tracks
+	url = https://github.com/wsor4035/minetest_tieless_tracks.git
+[submodule "advtrains_subway_ny"]
+	path = advtrains_subway_ny
+	url = https://codeberg.org/advtrains_supplemental/advtrains_subway_ny.git
+[submodule "classic_coaches"]
+	path = classic_coaches
+	url = https://github.com/Marnack/classic_coaches.git
+[submodule "dlxtrains_modpack"]
+	path = dlxtrains_modpack
+	url = https://github.com/Marnack/dlxtrains_modpack.git
+[submodule "advtrains"]
+	path = advtrains
+	url = https://git.bananach.space/advtrains.git
